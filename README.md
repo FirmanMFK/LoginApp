@@ -2,5 +2,5 @@
 This Repository Login Layout Makers Academy
 
 <p align="center">
-  <img src=".../screenshot.png">
+  <img src="screenshot.PNG">
 </p>
